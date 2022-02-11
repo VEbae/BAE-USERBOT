@@ -1,4 +1,4 @@
-<a href="https://instagram.com/E_rama11"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
+<a href="https://instagram.com/a.r.munfarid_"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  BAE-USERBOT" /></a>
 
 <p align="center">
   <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
@@ -10,7 +10,7 @@
   </a>
 </p>  
 
-![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
+![VIEWS](https://komarev.com/ghpvc/?username=VEbae)
 
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
